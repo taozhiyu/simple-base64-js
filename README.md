@@ -1,5 +1,5 @@
 # simple-base64-js
-a simple base64 js class, compatible with Unicode characters
+a simple base64 js class, compatible with ~~Unicode characters~~(**NOT** all unicode is suitable, only 3-byte unicode is supported, for example, **Chinese**)
 
 
 ```js
